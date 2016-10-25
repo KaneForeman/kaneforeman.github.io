@@ -8,7 +8,7 @@
 # Site settings
 title: THE INCA
 email: kane.foreman@gmail.com
-description: > Learn 2 things about the Inca
+description: Learn 2 things about the Inca
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://kaneforeman.github.io" # the base hostname & protocol for your site
