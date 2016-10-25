@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "Religion"
+date:   2016-10-25 3:13:16 -0400
+categories: jekyll update
+---
