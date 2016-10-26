@@ -4,3 +4,8 @@ title:  "Religion"
 date:   2016-10-25 3:13:16 -0400
 categories: jekyll update
 ---
+The Incas believed Viracocha created Everything. They Belevived that he made the Sun and moon by taking htem from a lake. Inti was the god of the sun. It was said that the Emporor was the "Son of the Sun" as he was a dirct disendant fro Inti. The largest Event of the year is Raymi festival, when the Inca put on their best clothes and lined up in terms of class. Then they had a multi-day celibration for their creator Viracocha. 
+
+    <body> 
+        <img src="http://www.amazingperu.com/images/tours/inca_festival_of_the_sun.jpg"/>
+    </body>
